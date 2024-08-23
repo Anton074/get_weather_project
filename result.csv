@@ -1,0 +1,5 @@
+date,town,main,temp,temp_feel,humidity,pressure,wind_speed,wind_direction
+2024-08-23,Moscow,Clouds,19.82,19.76,73,760,0.53,77
+2024-08-23,Chelyabinsk,Clouds,14.05,13.39,72,759,4.0,340
+2024-08-23,Kostanay,Clouds,14.16,14.24,100,756,5.0,330
+2024-08-23,Yekaterinburg,Clouds,14.77,14.05,67,761,5.0,10
